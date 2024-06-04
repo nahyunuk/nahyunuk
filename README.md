@@ -1,8 +1,8 @@
 # Android Developer
 
-[![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=CoffeeScript&logoColor=white)](https://www.android.com/intl/ko_kr/)
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=CoffeeScript&logoColor=white)](https://kotlinlang.org/)
-[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=CoffeeScript&logoColor=white)](https://flutter.dev/)
+[![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white)](https://www.android.com/intl/ko_kr/)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
 
 
