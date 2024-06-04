@@ -1,6 +1,7 @@
-# Backend Developer
+# Android Developer
 
-[![Java Badge](https://img.shields.io/badge/Java-137CBD?style=flat-square&logo=CoffeeScript&logoColor=white)](https://www.java.com/ko/)
+[![Android Badge](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=CoffeeScript&logoColor=white)](https://www.android.com/intl/ko_kr/)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=CoffeeScript&logoColor=white)](https://kotlinlang.org/)
 
 
 
